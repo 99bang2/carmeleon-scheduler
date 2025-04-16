@@ -1,0 +1,200 @@
+[
+  {
+    "stat_id": "gapyeongsupercharger",
+    "name": "가평 수퍼 차저",
+    "addr": "경기도 가평군 설악면 미사리로 3",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "gangneungsupercharger",
+    "name": "강릉 수퍼 차저",
+    "addr": "강원 강릉시 해안로 536",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "goyangsupercharger",
+    "name": "고양 수퍼 차저",
+    "addr": "경기도 고양시 일산동구 태극로 20",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "gwangjusupercharger",
+    "name": "광주 수퍼 차저",
+    "addr": "광주광역시 서구 상무누리로 55",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "gunsansupercharger",
+    "name": "군산 수퍼 차저",
+    "addr": "전라북도 군산시 대야면 번영로 1321",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "nonsansupercharger",
+    "name": "논산 수퍼 차저",
+    "addr": "충청남도 논산시 연무읍 동안로1113번길 36",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "dangjinsupercharger",
+    "name": "당진 수퍼 차저",
+    "addr": "충남 당진시 송악읍 송악로 63",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "daegusupercharger",
+    "name": "대구 수퍼 차저",
+    "addr": "대구광역시 북구 산격동 1676",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "busangangseosupercharger",
+    "name": "부산 - 강서 수퍼 차저",
+    "addr": "부산광역시 강서구 대저1동 361-68번지",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "busannamgusupercharger",
+    "name": "부산 - 남구 수퍼 차저",
+    "addr": "부산광역시 남구 전포대로 133",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "busanyeonjesupercharger",
+    "name": "부산 – 연제 수퍼 차저",
+    "addr": "부산광역시 연제구 좌수영로 290",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "busansupercharger",
+    "name": "부산 수퍼 차저",
+    "addr": "부산광역시 해운대구 해운대해변로 296",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "sangjusupercharger",
+    "name": "상주 수퍼 차저",
+    "addr": "경상북도 상주시 공검면 경상대로 4207",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "seogwiposupercharger",
+    "name": "서귀포 수퍼 차저",
+    "addr": "제주특별자치도 서귀포시 중문관광로72번길 35",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "seoulgangnamsupercharger",
+    "name": "서울 - 강남 수퍼 차저",
+    "addr": "서울특별시 강남구 테헤란로 521",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "gangnnamsupercharger",
+    "name": "서울 - 압구정 수퍼 차저",
+    "addr": "서울특별시 강남구 논현로 854",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "seoulyeouidosupercharger",
+    "name": "서울 - 여의도 수퍼 차저",
+    "addr": "서울특별시 영등포구 국제금융로 10",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "seoulyongsansupercharger",
+    "name": "서울 - 용산 수퍼 차저",
+    "addr": "대한민국 서울시 용산구 소월로 322",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "seouljamsilsupercharger",
+    "name": "서울 - 잠실 수퍼 차저",
+    "addr": "서울특별시 송파구 올림픽로 300",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "seouljongnosupercharger",
+    "name": "서울 - 종로 수퍼 차저",
+    "addr": "서울특별시 종로구 종로 33",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "seoulgangseosupercharger",
+    "name": "서울 – 강서 수퍼 차저",
+    "addr": "서울특별시 강서구 하늘길 38",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "seoulteheransupercharger",
+    "name": "서울 – 테헤란 수퍼 차저",
+    "addr": "서울특별시 강남구 테헤란로 129",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "bundangsupercharger",
+    "name": "성남 – 분당 수퍼 차저",
+    "addr": "경기도 성남시 분당구 탄천상로151번길 20",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "seongnampangyosupercharger",
+    "name": "성남 판교 수퍼 차저",
+    "addr": "경기도 성남시 분당구 판교로319번길 13",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "sokchogangwondosupercharger",
+    "name": "속초 수퍼 차저",
+    "addr": "강원도 속초시 대포항길 186",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "songdoincheonsupercharger",
+    "name": "송도 수퍼 차저",
+    "addr": "인천 연수구 송도과학로16번길 33-3",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "suwonsupercharger",
+    "name": "수원 수퍼 차저",
+    "addr": "경기도 수원시 권선구 세화로 134",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "sintanjinsupercharger",
+    "name": "신탄진 수퍼 차저",
+    "addr": "대전광역시 대덕구 신탄진로 504",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "wonjusupercharger",
+    "name": "원주 수퍼 차저",
+    "addr": "강원도 원주시 지정면 오크밸리2길 58",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "jinjusksupercharger",
+    "name": "진주 수퍼 차저",
+    "addr": "경상남도 진주시 동진로 440",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "cheonansupercharger",
+    "name": "천안 수퍼 차저",
+    "addr": "충청남도 천안시 동남구 성남면 종합휴양지로 200",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "hanamsupercharger",
+    "name": "하남 수퍼 차저",
+    "addr": "경기도 하남시 미사대로 750",
+    "busi_call": "080-822-0309"
+  },
+  {
+    "stat_id": "hamyangsupercharger",
+    "name": "함양 수퍼 차저",
+    "addr": "경상남도 함양군 함양읍 고운로 298",
+    "busi_call": "080-822-0309"
+  }
+]

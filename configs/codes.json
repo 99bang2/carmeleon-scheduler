@@ -1,0 +1,74 @@
+{
+	"targetType": {
+		"0": "주차장",
+		"1": "주유소",
+		"2": "세차장",
+		"3": "충전소"
+	},
+	"site": {
+		"0": "하이파킹",
+		"1": "제휴",
+		"2": "일반"
+	},
+	"notice": {
+		"0": "필수",
+		"1": "긴급",
+		"2": "일반"
+	},
+	"paymentTag": {
+		"card": "카드결제",
+		"cash": "현금결제",
+		"inApp": "인앱결제"
+	},
+	"brandTag": {
+		"hiParking": "하이파킹",
+		"cityOfSeoul": "서울시"
+	},
+	"productTag": {
+		"timePass": "시간권",
+		"dayPass": "당일권",
+		"monthPass": "월정기권"
+	},
+	"optionTag": {
+		"cityCar": "경차",
+		"elderly": "노약자",
+		"disabled": "장애인",
+		"pregnant": "임산부",
+		"female": "여성",
+		"elecCharge": "전기차충전",
+		"mechanical": "기계식"
+	},
+	"carTag": {
+		"bus": "버스",
+		"freight": "화물"
+	},
+	"industryOpts": {
+		"carWash": "세차장",
+		"gasStation": "주유소",
+		"carCenter": "정비업소"
+	},
+	"carWashTypeOpts": {
+		"handWash": "손세차",
+		"selfWash": "셀프세차",
+		"autoWash": "자동세차",
+		"machineWash": "기계식세차",
+		"steamedWash": "스팀세차"
+	},
+	"brandCodeOpts": {
+		"SKE":"SK에너지" ,
+		"GSC":"GS칼텍스" ,
+		"HDO":"현대오일뱅크" ,
+		"SOL":"S-OIL" ,
+		"RTO":"자영알뜰" ,
+		"RTX":"고속도로알뜰" ,
+		"NHO":"농협알뜰" ,
+		"ETC":"자가상표" ,
+		"E1G":"E1" ,
+		"SKG":"SK가스"
+	},
+	"gasStationTypeOpts": {
+		"N": "주유소",
+		"Y":"충전소",
+		"C": "겸업"
+	}
+}
